@@ -1,0 +1,1 @@
+Developed a Music Store Management system in C++ which enables the user to manage the stocks of music files regulary by adding, deleting, updating the items details so that the customer can purchase the particular one.This was implemented to show basic file operations such as add, delete & update the contents of the file.
